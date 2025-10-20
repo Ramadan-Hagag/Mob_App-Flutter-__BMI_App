@@ -68,6 +68,7 @@ bottomNavigationBar:  MaterialButtonWidget(
         title:" Re-Calculate" ,
         onPressed: (){
           Navigator.of(context).pop();
+         // log("hi ramadan");
         },
         
         
