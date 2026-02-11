@@ -1,0 +1,20 @@
+What do you know about Mixins?
+What is the difference between Layout builder and Mediaquery
+What is the difference between Bloc and Cubit as they both have states
+Make native code for android or ios make screen and send it to flutter (Method channel)
+Why Mediaquery is not good
+What is the difference between MVVM and Clean arch
+What to do to increase performance of app
+What is types of testing
+-------------------------------------------------------------------------------------------
+What are SOLID?
+What is the difference betweeen Builder and Factory?
+What is the lifecycle of statefulwidgets?
+What is the state and state managment?
+What is Mixins used for?
+What is Scaffold?
+What is the difference between sizedbox and container?
+What is the difference between object,var and dynamic?
+What is the difference between async and sync functions?
+What are limitations of flutter?
+
